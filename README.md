@@ -1,4 +1,5 @@
 ### Status
+[![Build Status](https://travis-ci.org/eaxdev/Python-tests-with-pytest.svg?branch=master)](https://travis-ci.org/eaxdev/Python-tests-with-pytest)
 
 # Python Fake API tests
 
